@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\bryan.adaszakbostro\\Documents\\Webb Uppgift\\Github sidor webbsida\\Style\\Style.css.csproj": {}
+    "C:\\Users\\bryan.adaszakbostro\\Documents\\Webb Uppgift\\Github sidor webbsida\\Style\\Style.css.csproj": {}
   },
   "projects": {
-    "c:\\Users\\bryan.adaszakbostro\\Documents\\Webb Uppgift\\Github sidor webbsida\\Style\\Style.css.csproj": {
+    "C:\\Users\\bryan.adaszakbostro\\Documents\\Webb Uppgift\\Github sidor webbsida\\Style\\Style.css.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\bryan.adaszakbostro\\Documents\\Webb Uppgift\\Github sidor webbsida\\Style\\Style.css.csproj",
+        "projectUniqueName": "C:\\Users\\bryan.adaszakbostro\\Documents\\Webb Uppgift\\Github sidor webbsida\\Style\\Style.css.csproj",
         "projectName": "Style.css",
-        "projectPath": "c:\\Users\\bryan.adaszakbostro\\Documents\\Webb Uppgift\\Github sidor webbsida\\Style\\Style.css.csproj",
+        "projectPath": "C:\\Users\\bryan.adaszakbostro\\Documents\\Webb Uppgift\\Github sidor webbsida\\Style\\Style.css.csproj",
         "packagesPath": "C:\\Users\\bryan.adaszakbostro\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\bryan.adaszakbostro\\Documents\\Webb Uppgift\\Github sidor webbsida\\Style\\obj\\",
+        "outputPath": "C:\\Users\\bryan.adaszakbostro\\Documents\\Webb Uppgift\\Github sidor webbsida\\Style\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

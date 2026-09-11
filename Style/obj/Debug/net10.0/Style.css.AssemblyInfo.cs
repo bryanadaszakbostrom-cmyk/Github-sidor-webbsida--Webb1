@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Style.css")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd1ac7e3ba6dbff1e7eda00f039c73310a0d1bae")]
 [assembly: System.Reflection.AssemblyProductAttribute("Style.css")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Style.css")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
